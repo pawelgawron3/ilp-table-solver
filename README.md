@@ -1,4 +1,4 @@
-# constraint-satisfaction-problem
+# ilp-table-solver
 
 This repository contains a Python implementation of the first exercise from the **"Optymalizacja Kombinatoryczna"** uni course.
 The solution is implemented using OR-Tools library for combinatorial optimization.
